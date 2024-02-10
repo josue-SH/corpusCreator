@@ -1,0 +1,12 @@
+---
+title: "corpusCreator"
+author: "Josue Sanchez Hernandez"
+format: html
+editor: visual
+---
+
+# Corpus Creator
+
+I'm using this document to learn a few things about text mining. First, I will use the [corporaexplorer package](https://kgjerde.github.io/corporaexplorer/) on one of my favorite books, The Savage Detectives by Roberto Bolaño. I will use the internet archive API to download the text, either in .txt or .pdf format, and then use the aforementioned R package to visualize the counts of certain key words.
+
+My goal is to be able to create an app that can create a text corpus using the internet archive, which is a free source of books.
